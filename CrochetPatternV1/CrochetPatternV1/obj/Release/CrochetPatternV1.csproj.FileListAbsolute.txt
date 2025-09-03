@@ -1,0 +1,10 @@
+C:\Users\samantha\source\repos\CrochetPatternV1\CrochetPatternV1\bin\Release\CrochetPatternV1.exe.config
+C:\Users\samantha\source\repos\CrochetPatternV1\CrochetPatternV1\bin\Release\CrochetPatternV1.exe
+C:\Users\samantha\source\repos\CrochetPatternV1\CrochetPatternV1\bin\Release\CrochetPatternV1.pdb
+C:\Users\samantha\source\repos\CrochetPatternV1\CrochetPatternV1\obj\Release\CrochetPatternV1.csproj.AssemblyReference.cache
+C:\Users\samantha\source\repos\CrochetPatternV1\CrochetPatternV1\obj\Release\CrochetPatternV1.Form1.resources
+C:\Users\samantha\source\repos\CrochetPatternV1\CrochetPatternV1\obj\Release\CrochetPatternV1.Properties.Resources.resources
+C:\Users\samantha\source\repos\CrochetPatternV1\CrochetPatternV1\obj\Release\CrochetPatternV1.csproj.GenerateResource.cache
+C:\Users\samantha\source\repos\CrochetPatternV1\CrochetPatternV1\obj\Release\CrochetPatternV1.csproj.CoreCompileInputs.cache
+C:\Users\samantha\source\repos\CrochetPatternV1\CrochetPatternV1\obj\Release\CrochetPatternV1.exe
+C:\Users\samantha\source\repos\CrochetPatternV1\CrochetPatternV1\obj\Release\CrochetPatternV1.pdb
