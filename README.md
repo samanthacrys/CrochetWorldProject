@@ -1,0 +1,1 @@
+When it comes to creating a new label using code in a Windows Form project, you now create it through the Form1.cs file. You have to double click on the form window in the designer side to create a Form1_Load method (mine is labelled Form1_Load_1 due to following instructions that did not indicate you click on the form file first).
