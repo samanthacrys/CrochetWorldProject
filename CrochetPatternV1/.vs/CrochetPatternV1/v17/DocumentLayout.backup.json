@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8134612B-E130-4A9B-8C55-4D067AC907B0}|CrochetPatternV1\\CrochetPatternV1.csproj|c:\\users\\samantha\\source\\repos\\crochetpatternv1\\crochetpatternv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8134612B-E130-4A9B-8C55-4D067AC907B0}|CrochetPatternV1\\CrochetPatternV1.csproj|solutionrelative:crochetpatternv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8134612B-E130-4A9B-8C55-4D067AC907B0}|CrochetPatternV1\\CrochetPatternV1.csproj|C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\crochetpatternv1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8134612B-E130-4A9B-8C55-4D067AC907B0}|CrochetPatternV1\\CrochetPatternV1.csproj|solutionrelative:crochetpatternv1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8134612B-E130-4A9B-8C55-4D067AC907B0}|CrochetPatternV1\\CrochetPatternV1.csproj|C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\crochetpatternv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8134612B-E130-4A9B-8C55-4D067AC907B0}|CrochetPatternV1\\CrochetPatternV1.csproj|solutionrelative:crochetpatternv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8134612B-E130-4A9B-8C55-4D067AC907B0}|CrochetPatternV1\\CrochetPatternV1.csproj|C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\crochetpatternv1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8134612B-E130-4A9B-8C55-4D067AC907B0}|CrochetPatternV1\\CrochetPatternV1.csproj|solutionrelative:crochetpatternv1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8134612B-E130-4A9B-8C55-4D067AC907B0}|CrochetPatternV1\\CrochetPatternV1.csproj|c:\\users\\samantha\\source\\repos\\crochetpatternv1\\crochetpatternv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8134612B-E130-4A9B-8C55-4D067AC907B0}|CrochetPatternV1\\CrochetPatternV1.csproj|solutionrelative:crochetpatternv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\CrochetPatternV1\\Form1.cs",
-              "RelativeDocumentMoniker": "CrochetPatternV1\\Form1.cs",
-              "ToolTip": "C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\CrochetPatternV1\\Form1.cs",
-              "RelativeToolTip": "CrochetPatternV1\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T17:12:51.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\CrochetPatternV1\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "CrochetPatternV1\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\CrochetPatternV1\\Form1.Designer.cs",
-              "RelativeToolTip": "CrochetPatternV1\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T16:58:53.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\CrochetPatternV1\\Form1.cs",
               "RelativeDocumentMoniker": "CrochetPatternV1\\Form1.cs",
               "ToolTip": "C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\CrochetPatternV1\\Form1.cs [Design]",
               "RelativeToolTip": "CrochetPatternV1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T16:53:23.999Z",
+              "WhenOpened": "2025-09-05T17:31:46.885Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\CrochetPatternV1\\Form1.cs",
+              "RelativeDocumentMoniker": "CrochetPatternV1\\Form1.cs",
+              "ToolTip": "C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\CrochetPatternV1\\Form1.cs",
+              "RelativeToolTip": "CrochetPatternV1\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T17:12:51.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\CrochetPatternV1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CrochetPatternV1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\samantha\\source\\repos\\CrochetPatternV1\\CrochetPatternV1\\Form1.Designer.cs",
+              "RelativeToolTip": "CrochetPatternV1\\Form1.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:58:53.625Z",
+              "EditorCaption": ""
             }
           ]
         }

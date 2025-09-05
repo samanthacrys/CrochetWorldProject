@@ -46,7 +46,7 @@
             // CrochetWorld
             // 
             this.CrochetWorld.AutoSize = true;
-            this.CrochetWorld.Location = new System.Drawing.Point(293, 252);
+            this.CrochetWorld.Location = new System.Drawing.Point(294, 274);
             this.CrochetWorld.Name = "CrochetWorld";
             this.CrochetWorld.Size = new System.Drawing.Size(0, 25);
             this.CrochetWorld.TabIndex = 1;
@@ -60,6 +60,7 @@
             this.Controls.Add(this.btnClickThis);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load_1);
             this.ResumeLayout(false);
             this.PerformLayout();
 

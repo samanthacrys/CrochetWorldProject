@@ -21,5 +21,17 @@ namespace CrochetPatternV1
         {
             CrochetWorld.Text = "Welcome to Crochet World.";
         }
+
+        private void Form1_Load_1(object sender, EventArgs e)
+        {
+            Label AdditionalLabel = new Label();
+            AdditionalLabel.Text = "Crochet World";
+            AdditionalLabel.Location = new Point(150, 70);
+            AdditionalLabel.AutoSize = true;
+            AdditionalLabel.Font = new Font("Verdana", 12);
+            AdditionalLabel.ForeColor = Color.Red;
+
+            this.Controls.Add(AdditionalLabel);
+        }
     }
 }
