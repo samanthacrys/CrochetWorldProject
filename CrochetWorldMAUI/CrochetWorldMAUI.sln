@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrochetWorldMAUI", "CrochetWorldMAUI\CrochetWorldMAUI.csproj", "{186170C4-0A32-40C3-8A0C-90DAACAD531B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{186170C4-0A32-40C3-8A0C-90DAACAD531B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186170C4-0A32-40C3-8A0C-90DAACAD531B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186170C4-0A32-40C3-8A0C-90DAACAD531B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186170C4-0A32-40C3-8A0C-90DAACAD531B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE31B69-16D0-4598-9480-95EAD0F95E11}
+	EndGlobalSection
+EndGlobal
