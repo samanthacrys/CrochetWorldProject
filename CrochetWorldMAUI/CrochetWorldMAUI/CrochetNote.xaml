@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrochetWorldMAUI.CrochetNote">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Image
+                Source="granny_square.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a hovercraft number nine" />
+
+            <Label
+                Text="Crochet World Pattern Creator"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+            <Label
+                Text="Enter your crochet notes to generate a written pattern rough draft."
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Completely free." />
+
+            <VerticalStackLayout>
+                <Label Text="Crochet Stitches: "
+                    HorizontalOptions="Center" />
+
+                <Entry
+                    x:Name="CrochetStitches"
+                    Placeholder="DC"
+                    HorizontalOptions="Center" />
+                    
+                    <Button
+                    Text="Convert"
+                    Clicked="OnSubmitButtonClicked"
+                    HorizontalOptions="Center" />
+                    
+            </VerticalStackLayout>
+
+            <VerticalStackLayout>
+                <Label Text="Pattern results from entry." />
+                <Entry x:Name="ReadOnlyEntry"
+                       Text="You will not be able to edit what is here."
+                       IsReadOnly="True"
+                       Placeholder="Input appears here." />
+            </VerticalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

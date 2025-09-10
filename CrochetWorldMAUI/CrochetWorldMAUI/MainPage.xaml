@@ -28,19 +28,19 @@
                 x:Name="CounterBtn"
                 Text="Convert stitches to pattern" 
                 SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
+                Clicked="OnGoToDetailsClicked"
                 HorizontalOptions="Center" />
             <Button
                 x:Name="ConvertText"
                 Text="Convert Text Pattern to Graph" 
                 SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
+                Clicked="OnGoToDetailsClicked"
                 HorizontalOptions="Center" />
             <Button
                 x:Name="CreateGraph"
                 Text="Create Crochet Graph" 
                 SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
+                Clicked="OnGoToDetailsClicked"
                 HorizontalOptions="Center" />
         </VerticalStackLayout>
     </ScrollView>
